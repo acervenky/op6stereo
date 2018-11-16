@@ -103,8 +103,8 @@ device_check() {
   fi
 }
 
-if ! device_check "OnePlus6" && ! device_check "Enchilada" && ! device_check "enchilada" && device_check "OnePlus6T" && ! device_check "Fajita" && ! device_check "fajita"; then
-  ui_print "This mod is only for Oneplus 6/6T! Aborting!"
+if ! device_check "OnePlus6" && ! device_check "Enchilada" && ! device_check "enchilada"; then
+  ui_print "This mod is only for Oneplus 6! Aborting!"
   $BOOTMODE || recovery_cleanup
   rm -rf $TMPDIR
   exit 1
