@@ -1,3 +1,7 @@
+OnePlus 6 Stereo Speaker Mod 
+
+Enables the earpiece to act as a second front facing speaker for media consumption.
+
 Changelog:
 
 v1 - Initial Release
