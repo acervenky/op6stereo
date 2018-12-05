@@ -1,8 +1,7 @@
 id=op6stereo
 name=Oneplus 6 OOS Stereo Speaker Mod
-version=v7
-versionCode=7
+version=v8
+versionCode=8
 author=acervenky
 description=Earpiece acts as a secondary speaker for stereo effect
-supporturl=https://forum.xda-developers.com/oneplus-6/themes/magisk-stereo-speaker-mod-oneplus-6-t3814512
 minMagisk=1500
